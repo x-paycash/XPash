@@ -1,0 +1,12 @@
+[11-May-2022 12:04:59 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/xpaycash/public_html/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/xpaycash/public_html/index.php on line 3
+[15-May-2022 13:55:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function dd() in /home/xpaycash/public_html/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/xpaycash/public_html/index.php on line 3
+[15-May-2022 13:56:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function dd() in /home/xpaycash/public_html/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/xpaycash/public_html/index.php on line 12
